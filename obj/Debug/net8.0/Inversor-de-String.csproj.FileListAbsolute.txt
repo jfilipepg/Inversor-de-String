@@ -1,0 +1,15 @@
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\bin\Debug\net8.0\Inversor-de-String.exe
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\bin\Debug\net8.0\Inversor-de-String.deps.json
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\bin\Debug\net8.0\Inversor-de-String.runtimeconfig.json
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\bin\Debug\net8.0\Inversor-de-String.dll
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\bin\Debug\net8.0\Inversor-de-String.pdb
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.AssemblyInfoInputs.cache
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.AssemblyInfo.cs
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.csproj.CoreCompileInputs.cache
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.sourcelink.json
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.dll
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\refint\Inversor-de-String.dll
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.pdb
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\Inversor-de-String.genruntimeconfig.cache
+C:\Users\jfpg_\OneDrive\Área de Trabalho\Inversor de String\Inversor-de-String\obj\Debug\net8.0\ref\Inversor-de-String.dll

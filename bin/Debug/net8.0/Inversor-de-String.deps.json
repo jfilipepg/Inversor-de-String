@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Inversor-de-String/1.0.0": {
+        "runtime": {
+          "Inversor-de-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inversor-de-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
