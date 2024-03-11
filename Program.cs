@@ -10,4 +10,3 @@ for(i = invertida.Length - 1; i >= 0; i--){
 }
 
 invertida = auxiliar;
-Console.Write(invertida);
